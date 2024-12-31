@@ -43,22 +43,21 @@ Hi! I’m **Swayam Kohli**, a second-year **Information Technology** student at 
 
 ## :fire: GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SwayamKohli&show_icons=true&theme=calm&hide_border=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=SwayamKohli&show_icons=true&theme=calm&hide_border=true&count_private=true" alt="GitHub Stats" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwayamKohli&theme=calm&hide_border=true" alt="GitHub Streak Stats" width="48%">
 </div>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwayamKohli&layout=compact&theme=calm&hide_border=true" alt="Top Languages" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwayamKohli&layout=compact&theme=calm&hide_border=true" alt="Top Languages " width="50%">
 </p>
 
 ---
 
 ## :star2: Projects 
-- **[Personalized Health Monitoring for Mental Well-being](https://github.com/SwayamKohli/Personalized-Health-Monitoring-for-Mental-Well-being)**  
+- **Personalized Health Monitoring for Mental Well-being**  
   An IoT-enabled system that tracks physiological and environmental factors, calculates stress levels, and provides personalized recommendations.
 
-<div style="display: flex; align-items: center;">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="20%" alt="Coding Gif">
-</div>
+- **Web Development Projects**  
+  A collection of projects completed during the **Udemy Web Development Bootcamp 2024**. Each project showcases different skills and technologies learned throughout the course.
 
 ---
 

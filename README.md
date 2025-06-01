@@ -191,14 +191,6 @@
 
 ---
 
-## Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SwayamKohli&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=Swayam's+GitHub+Stats" />
-</div>
-
----
-
 ## Let's Connect!
 
 <div align="center">

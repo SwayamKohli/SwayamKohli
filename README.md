@@ -71,17 +71,6 @@
 **Leadership**
 - President - Amity Competitive Programming Club
 - Class Representative (2023–Present)
-- Event Organizer - HackRush & Quantum Coders
-
-</td>
-<td align="center" width="33%">
-
-**Academic**
-- 30% Merit Scholarship
-- Information Technology Student
-- Academic Coordinator
-
-</td>
 </tr>
 </table>
 </div>

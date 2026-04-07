@@ -1,7 +1,7 @@
 # Hey there! I'm Swayam Kohli
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=60&lines=Full+Stack+Developer;IT+Student+%40+Amity+University;Problem+Solver+%26+Innovator;Always+Learning+Something+New!" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=60&lines=Full+Stack+Developer;ACPC+President;3x+Code+Canvas+Winner;Always+Learning+Something+New!" alt="Typing Animation">
 </div>
 
 <div align="center">
@@ -14,19 +14,27 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="220"/>
+<table border="0">
+  <tr>
+    <td width="65%" valign="top">
 
 ## About Me
 
-- Currently in my **3rd year** of **Information Technology** at **Amity University, Noida**
-- Passionate about **Full Stack Development** & solving real-world problems
-- Active participant in **Hackathons** and **Coding Competitions**
-- President of **Amity Competitive Programming Club**
-- Winner at **Code Canvas 3.0**
-- Looking to collaborate on **Open Source Projects**
+- Currently in my 3rd year of Information Technology at Amity University, Noida (CGPA: 8.90)
+- Portfolio Website: [portfolio-swayamkohli.netlify.app](https://portfolio-swayamkohli.netlify.app/)
+- 3x Consecutive Winner of Code Canvas (3.0, 4.0, and 5.0)
+- President of Amity Competitive Programming Club (ACPC)
+- Special Prize Winner at Riverathon 1.0 National Finals
+- Selected for the EricssonEdge Academia Program (Top 700 in India)
+- General Secretary of the NEP SAARTHI CLUB (UGC)
 - Fun fact: I debug with determination and solve problems with persistence!
 
-<br clear="right"/>
+    </td>
+    <td width="35%" valign="middle" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -35,20 +43,14 @@
 <div align="center">
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,c,java,js&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,ts,js,cpp,java,mysql,postgres&theme=dark)](https://skillicons.dev)
 
 ### Frameworks & Libraries
-[![My Skills](https://skillicons.dev/icons?i=django,react,nodejs,bootstrap,vite,typescript&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,django,tailwind,threejs,supabase&theme=dark)](https://skillicons.dev)
 
 ### Tools & Technologies
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vite,cloudflare,vercel&theme=dark)](https://skillicons.dev)
 
-### Databases
-[![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,sqlite,supabase&theme=dark)](https://skillicons.dev)
-
-</div>
-
----
 </div>
 
 ---
@@ -58,19 +60,23 @@
 <div align="center">
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="50%">
 
 **Competition**
-- Winner - Code Canvas 3.0
-- EY Techathon 5.0 Participant
-- CyberCup Hackathon Participant
+- Winner - Code Canvas 5.0 (2026)
+- Winner - Code Canvas 4.0 (2025)
+- Winner - Code Canvas 3.0 (2025)
+- Special Prize - Riverathon 1.0 National Finals
+- Round 2 Qualifier - EY Techathon 5.0
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="50%">
 
 **Leadership**
 - President - Amity Competitive Programming Club
+- General Secretary - NEP SAARTHI CLUB (UGC)
 - Class Representative (2023–Present)
+</td>
 </tr>
 </table>
 </div>
@@ -80,16 +86,16 @@
 ## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SwayamKohli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwayamKohli&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SwayamKohli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SwayamKohli&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwayamKohli&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwayamKohli&theme=tokyonight&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=00D9FF" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SwayamKohli&theme=tokyo-night&hide_border=true&area=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SwayamKohli&theme=tokyo-night&hide_border=true&area=true&color=00D9FF" />
 </div>
 
 ---
@@ -97,7 +103,7 @@
 ## GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SwayamKohli&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.deno.dev/?username=SwayamKohli&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
 </div>
 
 ---
@@ -106,12 +112,12 @@
 
 <div align="center">
 
-<a href="https://github.com/SwayamKohli/Personalized-Health-Monitoring-for-Mental-Well-being">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SwayamKohli&repo=Personalized-Health-Monitoring-for-Mental-Well-being&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/SwayamKohli/CrowdGuardian">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SwayamKohli&repo=CrowdGuardian&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://github.com/SwayamKohli/Web-Development-Projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SwayamKohli&repo=Web-Development-Projects&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/SwayamKohli/ClosetAI">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SwayamKohli&repo=ClosetAI&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -122,55 +128,54 @@
 
 <div align="center">
 
-### Featured Projects
+### Detailed Project Archive
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### **Virtual Herbal Garden**
-*Winner - Code Canvas 3.0*
+#### **Closet-AI**
+*Research Implementation (2025)*
 
-**Tech Stack:** React.js • Django • PostgreSQL • REST APIs
+**Stack:** Python | TensorFlow | FastAPI | React
 
-• Led full-stack development with interactive 3D plant models  
-• Integrated ML recommendation engine via REST APIs  
-• Built plant management dashboard with bookmarking & social sharing  
-• Developed advanced search and filtering capabilities  
+• Intelligent wardrobe management system utilizing computer vision.
+• Featured in ICSETI 2026 research publication.
+• Automates outfit recommendations based on style and weather.
 
 ---
 
-#### **Government Policy Recommendation Engine**
-*EY Techathon 5.0 - Backend Developer*
+#### **CrowdGuardian**
+*Winner - Code Canvas 4.0 (2025)*
 
-**Tech Stack:** Django • PostgreSQL • OCR
+**Stack:** React | Node.js | Python | scikit-learn
 
-• Architected complete backend system for policy recommendations  
-• Implemented Aadhaar OCR validation for user verification  
-• Designed database schema and integrated frontend seamlessly  
+• Real-time stampede risk prediction system.
+• ML-based risk classification and dynamic evacuation routing via OSMnx.
+• Awarded First Prize at Code Canvas 4.0.
 
 </td>
 <td width="50%" valign="top">
 
-#### **Personalized Mental Well-being System**
-*CyberCup Hackathon*
+#### **CodeSanta's Sleigh Rush**
+*Production Event Platform (2025)*
 
-**Tech Stack:** IoT • Python • Data Analytics
+**Stack:** TypeScript | Supabase | Edge Functions
 
-• Developed real-time mental health monitoring IoT system  
-• Created comprehensive dashboard for vitals visualization  
-• Implemented data analytics for personalized recommendations  
-• Team: NULL Pointers  
+• Immersive holiday-themed competitive programming platform.
+• Secure answer validation via SHA-256 hashing and RLS.
+• Managed live leaderboards for 100+ active participants.
 
 ---
 
-#### **Additional Projects**
+#### **Virtual Herbal Garden**
+*Winner - Code Canvas 3.0 (2025)*
 
-**Real-Time Traffic Management**  
-*Kivy • Python* - Real-time monitoring app (Lead Developer)
+**Stack:** React | Three.js | Django | PostgreSQL
 
-**Malware Classifier**  
-*Random Forest • ML* - 99% accuracy detection system
+• Immersive 3D medicinal plant exploration environment.
+• Integrated ML recommendation engine for personalized care.
+• Awarded First Prize at Code Canvas 3.0.
 
 </td>
 </tr>
@@ -184,9 +189,9 @@
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=react&logoColor=white)](https://portfolio-swayamkohli.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swayam-kohli)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swayam11489@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swayam-kohli-939801292/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SwayamKohli)
 
 </div>
 

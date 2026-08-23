@@ -1,7 +1,7 @@
 # Hey there! I'm Swayam Kohli
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=60&lines=Full+Stack+Developer;ACPC+President;3x+Code+Canvas+Winner;Always+Learning+Something+New!" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=60&lines=Applied+AI+%26+Security+Engineering;Full+Stack+Developer;Published+Researcher+%40+IGI+Global;3x+Code+Canvas+Winner;DRDO+%7C+TransOrg+%7C+OHSL+Intern" alt="Typing Animation">
 </div>
 
 <div align="center">
@@ -19,13 +19,14 @@
     <td width="65%" valign="top">
 
 ## About Me
-- Currently in my 4th year of Information Technology at Amity University, Noida (CGPA: 8.95)
+- Final-year B.Tech IT student at Amity University, Noida (CGPA: 8.95) — Applied AI, Security Engineering & Full Stack
 - Portfolio Website: [portfolio-swayamkohli.netlify.app](https://portfolio-swayamkohli.netlify.app/)
+- Published Researcher — peer-reviewed chapter with IGI Global (2025), written in 2nd year of B.Tech
 - 3x Consecutive Winner of Code Canvas (3.0, 4.0, and 5.0)
-- President of Amity Competitive Programming Club (ACPC)
-- Special Prize Winner at Riverathon 1.0 National Finals
-- Selected for the EricssonEdge Academia Program (Top 700 in India)
-- General Secretary of the NEP SAARTHI CLUB (UGC)
+- Summer Research Intern at DRDO (SAG, Ministry of Defence) — cryptographic security research
+- Full Stack Development Intern at TransOrg Analytics; Research Intern at Open Health Systems Laboratory
+- Special Prize (Best Idea) Winner at Riverathon 1.0 National Hackathon
+- Ex-President of Amity Competitive Programming Club (ACPC) — led 100+ students
 - Fun fact: I debug with determination and solve problems with persistence!
 
     </td>
@@ -47,6 +48,9 @@
 ### Frameworks & Libraries
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,django,tailwind,threejs,supabase&theme=dark)](https://skillicons.dev)
 
+### ML & Data
+[![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn,numpy,pandas&theme=dark)](https://skillicons.dev)
+
 ### Tools & Technologies
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vite,cloudflare,vercel&theme=dark)](https://skillicons.dev)
 
@@ -62,24 +66,71 @@
 <td align="center" width="50%">
 
 **Competition**
+- National Hackathon Finals - Punjab & Sind Bank 2026 (Team Lead, 6 members)
+- Special Prize (Best Idea) - Riverathon 1.0 National Hackathon
 - Winner - Code Canvas 5.0 (2026)
 - Winner - Code Canvas 4.0 (2025)
 - Winner - Code Canvas 3.0 (2025)
-- Special Prize - Riverathon 1.0 National Finals
 - Round 2 Qualifier - EY Techathon 5.0
 
 </td>
 <td align="center" width="50%">
 
-**Leadership**
-- President - Amity Competitive Programming Club
+**Leadership & Recognition**
+- Published Researcher - IGI Global (2025)
+- Ex-President - Amity Competitive Programming Club
 - General Secretary - NEP SAARTHI CLUB (UGC)
+- Merit Scholar - 30% Academic Scholarship
 - Class Representative (2023–Present)
 
 </td>
 </tr>
 </table>
 </div>
+
+---
+
+## Experience
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+
+**DRDO**
+Summer Research Intern
+SAG, Ministry of Defence
+*Jun – Jul 2026*
+Cryptographic security research
+
+</td>
+<td align="center" width="33%">
+
+**TransOrg Analytics**
+Full Stack Development Intern
+*May – Jul 2026*
+Production enterprise platform
+
+</td>
+<td align="center" width="33%">
+
+**Open Health Systems Lab**
+Research Intern
+*May – Jul 2026*
+Clinical ML for early diagnostics
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## Research & Publication
+
+**Enhancing Predictive Analysis with Large Language Models in the Digital Innovation World**
+IGI Global, 2025 · DOI: [10.4018/979-8-3373-2474-6.ch008](https://doi.org/10.4018/979-8-3373-2474-6.ch008)
+Peer-reviewed chapter covering prompt engineering for predictive tasks, generative model behavior, and responsible LLM deployment — written and published in 2nd year of B.Tech.
 
 ---
 
@@ -114,8 +165,8 @@
 <a href="https://github.com/SwayamKohli/CrowdGuardian">
   <img align="center" src="https://github-readme-stats-zeta-umber-72.vercel.app/api/pin/?username=SwayamKohli&repo=CrowdGuardian&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/SwayamKohli/ClosetAI">
-  <img align="center" src="https://github-readme-stats-zeta-umber-72.vercel.app/api/pin/?username=SwayamKohli&repo=ClosetAI&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/SwayamKohli/GadaSoftwares-Samsung-2025">
+  <img align="center" src="https://github-readme-stats-zeta-umber-72.vercel.app/api/pin/?username=SwayamKohli&repo=GadaSoftwares-Samsung-2025&theme=tokyonight&hide_border=true" />
 </a>
 </div>
 
@@ -131,48 +182,46 @@
 <tr>
 <td width="50%" valign="top">
 
-#### **Closet-AI**
-*Research Implementation (2025)*
+#### **SediFlood Alert**
+*Special Prize (Best Idea) - Riverathon 1.0 (Feb 2026)*
 
-**Stack:** Python | TensorFlow | FastAPI | React
+**Stack:** Geospatial AI | GeoPandas | Rasterio | Python
 
-• Intelligent wardrobe management system utilizing computer vision.
-• Featured in ICSETI 2026 research publication.
-• Automates outfit recommendations based on style and weather.
+• AI flood early-warning system predicting risk by integrating sediment dynamics — a gap standard flood maps miss.
+• Built and demonstrated in 24 hours; achieved national-level recognition.
+• Live dashboard still operational.
 
 ---
 
-#### **CrowdGuardian**
-*Winner - Code Canvas 4.0 (2025)*
+#### **KrishnaVerse**
+*Emotion-Aware LLM Companion (Feb – Mar 2026)*
 
-**Stack:** React | Node.js | Python | scikit-learn
+**Stack:** LLM Systems | Prompt Engineering | Python
 
-• Real-time stampede risk prediction system.
-• ML-based risk classification and dynamic evacuation routing via OSMnx.
-• Awarded First Prize at Code Canvas 4.0.
+• Emotionally adaptive AI system responding to user emotional states with ethically constrained, non-prescriptive guidance.
+• Fully shipped with a live demo; zero data collection, bias-aware design by default.
 
 </td>
 <td width="50%" valign="top">
 
-#### **CodeSanta's Sleigh Rush**
-*Production Event Platform (2025)*
+#### **CATO**
+*Network Traffic Classifier (Jul – Aug 2025)*
 
-**Stack:** TypeScript | Supabase | Edge Functions
+**Stack:** Network Security | ML | Python
 
-• Immersive holiday-themed competitive programming platform.
-• Secure answer validation via SHA-256 hashing and RLS.
-• Managed live leaderboards for 100+ active participants.
+• Privacy-preserving network traffic classification on real encrypted flows, without deep packet inspection.
+• Achieved 90%+ classification accuracy on a real-world dataset.
+• Deployed as a live inference service.
 
 ---
 
-#### **Virtual Herbal Garden**
-*Winner - Code Canvas 3.0 (2025)*
+#### **CrowdGuardian**
+*Winner - Code Canvas 4.0 (Aug – Oct 2025)*
 
-**Stack:** React | Three.js | Django | PostgreSQL
+**Stack:** React | Node.js | Python | scikit-learn
 
-• Immersive 3D medicinal plant exploration environment.
-• Integrated ML recommendation engine for personalized care.
-• Awarded First Prize at Code Canvas 3.0.
+• Real-time ML system detecting crowd risk and autonomously generating evacuation routes.
+• Departmental First Prize, demonstrated under live conditions.
 
 </td>
 </tr>

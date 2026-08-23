@@ -19,8 +19,7 @@
     <td width="65%" valign="top">
 
 ## About Me
-
-- Currently in my 3rd year of Information Technology at Amity University, Noida (CGPA: 8.90)
+- Currently in my 4th year of Information Technology at Amity University, Noida (CGPA: 8.95)
 - Portfolio Website: [portfolio-swayamkohli.netlify.app](https://portfolio-swayamkohli.netlify.app/)
 - 3x Consecutive Winner of Code Canvas (3.0, 4.0, and 5.0)
 - President of Amity Competitive Programming Club (ACPC)
@@ -76,6 +75,7 @@
 - President - Amity Competitive Programming Club
 - General Secretary - NEP SAARTHI CLUB (UGC)
 - Class Representative (2023–Present)
+
 </td>
 </tr>
 </table>
@@ -86,8 +86,8 @@
 ## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SwayamKohli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SwayamKohli&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats-zeta-umber-72.vercel.app/api?username=SwayamKohli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats-zeta-umber-72.vercel.app/api/top-langs/?username=SwayamKohli&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
@@ -100,10 +100,10 @@
 
 ---
 
-## GitHub Trophies
+## GitHub Rank
 
 <div align="center">
-  <img src="https://github-profile-trophy.deno.dev/?username=SwayamKohli&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+  <img height="220em" src="https://github-readme-stats-zeta-umber-72.vercel.app/api?username=SwayamKohli&show_icons=false&hide_rank=false&theme=tokyonight&hide_border=true&rank_icon=github" />
 </div>
 
 ---
@@ -111,15 +111,12 @@
 ## Featured Projects
 
 <div align="center">
-
 <a href="https://github.com/SwayamKohli/CrowdGuardian">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SwayamKohli&repo=CrowdGuardian&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats-zeta-umber-72.vercel.app/api/pin/?username=SwayamKohli&repo=CrowdGuardian&theme=tokyonight&hide_border=true" />
 </a>
-
 <a href="https://github.com/SwayamKohli/ClosetAI">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SwayamKohli&repo=ClosetAI&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats-zeta-umber-72.vercel.app/api/pin/?username=SwayamKohli&repo=ClosetAI&theme=tokyonight&hide_border=true" />
 </a>
-
 </div>
 
 ---
@@ -180,7 +177,6 @@
 </td>
 </tr>
 </table>
-
 </div>
 
 ---
